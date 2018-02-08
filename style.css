@@ -1,0 +1,41 @@
+body{
+  background-color: gainsboro;
+  margin-top: 100px;
+
+}
+form{
+  background-color: ghostwhite;
+  width: 200px;
+  height: 300px;
+  margin-top: 100px;
+  margin: 0 auto;
+  padding: 40px;
+  padding-top: 25px;
+  padding-bottom: 60px;
+}
+
+.head{
+  front-size: 25px;
+  color: #939393;
+  text-align: center;
+}
+
+.login,.email,.password{
+  heigh: 50px;
+  width: 160px;
+  padding: 5px 20px;
+  margin: 12px 0;
+  border: none;
+  border-bottom: 1px solid #939393;
+}
+
+.enter{
+  background-color: #939393;
+  border: none;
+  color: white;
+  height: 30px;
+  width: 100px;
+  font-size: 20px;
+  margin: 20px 50px;
+
+}
